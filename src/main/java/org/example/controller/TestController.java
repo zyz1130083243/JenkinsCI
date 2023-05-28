@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("test")
     public String test() {
-        return "这是test1分支";
+        return "这是test2分支";
     }
 
 
